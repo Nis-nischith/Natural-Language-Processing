@@ -1,6 +1,6 @@
 ## Words to Numbers
 
-![Words to Numbers Graph]()
+![Words to Numbers Graph](words_to_numbers_graph.png)
 
 1. **One Hot Encoding**
 2. **Bag of Words**
